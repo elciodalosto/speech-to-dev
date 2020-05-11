@@ -1,0 +1,33 @@
+
+{
+      "name": "speech-to-dev",
+      "version": "1.0.0",
+      "description": "a system for speech recognizing who mean to translate the speech command to a terminal and then execute their commands",
+      "main": "script.js",
+      "scripts": {
+        "test": "testar"
+      },
+      "repository": {
+        "type": "git",
+        "url": "git+https://github.com/elciodalosto/web-speech-api.git"
+      },
+      "keywords": [
+        "speech",
+        "speak",
+        "recognize",
+        "recognition",
+        "develop",
+        "vocal",
+        "voice",
+        "command",
+        "comando",
+        "voz",
+        "fala"
+      ],
+      "author": "Elcio Augusto Dalosto",
+      "license": "ISC",
+      "bugs": {
+        "url": "https://github.com/elciodalosto/web-speech-api/issues"
+      },
+      "homepage": "https://github.com/elciodalosto/web-speech-api#readme"
+}
